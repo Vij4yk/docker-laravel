@@ -1,4 +1,6 @@
-# DOCKER LEMP
+![alt text](https://moriohcdn.b-cdn.net/8285a19ae7.png)
+
+# DOCKER SETUP
 - Nginx
 - PHP 7.2-fpm
 - MySQL
@@ -17,8 +19,6 @@
 | Mail catcher | `http://localhost:8082` |
 | Logs         | `log/`                  |
 
-## :whale: Docker images
-https://github.com/atillay/docker-images/tree/master/lemp
 
 ## :tent: Use a virtual host
 - On your machine, run `$ sudo nano /etc/hosts` and add `127.0.0.1   myhost.local`
